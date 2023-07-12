@@ -1,4 +1,4 @@
-<h1 align="center"> Sigle Page Applicatiion - SPA </h1>
+<h1 align="center"> Sigle Page Application - SPA </h1>
 
 ## Projeto
 
